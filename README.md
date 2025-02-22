@@ -14,8 +14,8 @@ Bu proje, sistem loglarını okuma, görüntüleme, silme ve yeni bir dosyaya ka
 
 1. **Kodu Derleme**:
    ```bash
-   gcc -o log_manager log_manager.c
+   gcc -o syslog syslog.c
 
 2. **Kodu Çalıştırma**:
    ```bash
-   ./log_manager
+   ./syslog
