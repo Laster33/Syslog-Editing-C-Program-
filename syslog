@@ -1,0 +1,6 @@
+2025-02-16T13:14:21.075240+03:00 mx rsyslogd: [origin software="rsyslogd" swVersion="8.2302.0" x-pid="2085" x-info="https://www.rsyslog.com"] rsyslogd was HUPed
+2025-02-16T13:14:21.080936+03:00 mx logrotate: ALERT exited abnormally with [1]
+2025-02-16T13:15:00.084369+03:00 mx anacron[2241]: Job `cron.daily' terminated (exit status: 1) (mailing output)
+2025-02-16T13:15:00.084401+03:00 mx anacron[2241]: Can't find sendmail at /usr/sbin/sendmail, not mailing output
+2025-02-16T13:15:00.084469+03:00 mx anacron[2241]: Normal exit (1 job run)
+2025-02-16T13:17:01.934345+03:00 mx CRON[9236]: (root) CMD (cd / && run-parts --report /etc/cron.hourly)
