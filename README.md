@@ -1,5 +1,4 @@
 # Syslog-Editing-C-Program-
-# Log Yönetim Sistemi
 
 Bu proje, sistem loglarını okuma, görüntüleme, silme ve yeni bir dosyaya kaydetme işlemlerini gerçekleştiren basit bir C programıdır. Program, bir bağlı liste (linked list) kullanarak log kayıtlarını yönetir.
 
